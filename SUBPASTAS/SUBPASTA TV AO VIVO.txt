@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
+<name>[COLOR blue][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%201.txt</externallink>
 <fanart></fanart>
