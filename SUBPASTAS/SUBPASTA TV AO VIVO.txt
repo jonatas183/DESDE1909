@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-MSNvRvOpZGtHKHoF10aO_E0pFTfy_rU&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%201.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] [COLOR yellow][B]expirado[/B][/COLOR]</info>
 
@@ -10,7 +10,7 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-TbUChAf8QX9fqsXJsUxCJjFrs8uDOTV&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%202.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 02/07/2021</info>
 
@@ -18,7 +18,7 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]CRÉDITOS [COLOR blue][B]ONE[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-_2QB8RcbvPkItYMxPibcatVpcnRtwDx&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 04/07/2021</info>
 
@@ -26,14 +26,14 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-sRriVBBI7ZxREEkAiUj6csYzVqtpTyt</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%204.txtt</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 10/08/2021</info>
 
 <channels>
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 5[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-wvr1gsiTNngORPp8rrcFNzLgg56GFc1&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%205.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 20/07/2021</info>
 
@@ -41,7 +41,7 @@
 <channel>
 <name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 6[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1Cfl_0JCBdryaCGmvZZl9NLJZFV6hcqes&export=download####</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%206.txt###</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] [COLOR yellow][B]expirado[/B][/COLOR]</info>
 
@@ -49,14 +49,14 @@
 <channel>
 <name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 7[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1-FpWDL8F1KRqdWhtwLPj1QKPaTcgUktj&export=download####</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%207.txt###</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] [COLOR yellow][B]expirado[/B][/COLOR]</info>
 
 <channels>
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO TESTE[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1XjixW0as15G8ICTPGT1pq9iNcCqIrpFG&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%20TESTE.m3u</externallink>
 <fanart></fanart>
 <info>Opção dedicada para teste do administrador.</info>
 
@@ -64,7 +64,7 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]CRÉDITOS V7[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/u/0/uc?id=1GeWnFgevLXX8zMZBSduuaicTruGvdqw_&export=download</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/VICTOR%20MANOEL%20_%20TV%20-%20%20AO%20VIVO.m3u</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR]</info>
 
