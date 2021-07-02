@@ -10,12 +10,12 @@
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/vZrDZ8r/Filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/SUBPASTAS/SUBPASTA%20FILMES.txt####</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/SUBPASTAS/SUBPASTA%20FILMES.txt</externallink>
 <info></info>
 
 <channels>
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/12XfC9f/S-ries.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/S%C3%89RIES/ENTRADA.txt####</externallink>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/S%C3%89RIES/ENTRADA.txt</externallink>
 <info></info>
