@@ -1,0 +1,53 @@
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/DPMN0BNHM/9TPO08VHZ/18443.ts?tkn=1612631817$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/DPMN0BNHM/9TPO08VHZ/18460.ts?tkn=1612631817$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/DPMN0BNHM/9TPO08VHZ/18512.ts?tkn=1612631817$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/p678hLC/op-o-1.png</thumbnail>
+</item>
+
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://meumd.com:80/5517988034445/CszGRkjN/106766$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://meumd.com:80/5517988034445/CszGRkjN/106754$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://meumd.com:80/5517988034445/CszGRkjN/101416$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/CmGWLZp/op-o-2.png</thumbnail>
+    <info>[COLOR yellow][B]●[/B][/COLOR] Servidor em manutenção.</info>
+</item>
+
+
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10052647$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10052646$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10052228$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/Q8K0Fj1/op-o-3.png</thumbnail>
+</item>
+
+
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://assistirpainel.ddns.net:8880/gc6hftne9x/7k2z459bac/27071$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://assistirpainel.ddns.net:8880/gc6hftne9x/7k2z459bac/27259$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://assistirpainel.ddns.net:8880/gc6hftne9x/7k2z459bac/27260$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/M6fhPdw/op-o-4.png</thumbnail>
+</item>
+
+
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 5[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/AlissonLuana@p2elite.com/869162/10052647$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/AlissonLuana@p2elite.com/869162/10052646$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/AlissonLuana@p2elite.com/869162/10052228$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/ZKygvbW/op-o-5.png</thumbnail>
+</item>
+
+
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] BBB21[/B][/COLOR] | [COLOR white][B]OPÇÃO 6[/B][/COLOR] - [COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/WW3dPGcKcQ/1162706429/113525$$lsname=[COLOR white][B]Acompanhe a Casa[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/WW3dPGcKcQ/1162706429/113527$$lsname=[COLOR white][B]Acompanhe a Casa EXTRA[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/WW3dPGcKcQ/1162706429/113526$$lsname=[COLOR white][B]Mosaico[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/DkPYBsn/op-o-6.png</thumbnail>
+</item>

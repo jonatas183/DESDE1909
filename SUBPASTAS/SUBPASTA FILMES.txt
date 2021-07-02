@@ -1,0 +1,89 @@
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | LANÇAMENTO - 2021[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1IdczuZdigNUqaJcenX-3B1tHLOuaOk0Z&export=download</externallink>
+<info></info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | LANÇAMENTO - 2020[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1RP9SpNx0BOrfLHEFUCtWPY8GBDoxBD2s&export=download</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1fbmNhO4cIfeukHRWuaWIrBDX0GGXgA8z&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | AVENTURA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=15BxXd0CHqrFdQEuBRrL84oaj_S8XsUVh&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | CRIME[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1WWn4uCuXkWilm6jpINlEE0Q8XR_2Uerr&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]●[/B][/COLOR][COLOR white][B] FILMES | COMÉDIA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=LINK&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | DRAMA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1OowEJrhOJ0s5RBuQYLG_t24SZ9fB3LV8&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | ROMANCE[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1K3278SluEkpnTFlF75X_N7IgldrsCem_&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | SUSPENSE[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1lV_EoxkxdvKruU6lk_OwDTHBduxi8P4X&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | TERROR[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1Dz3p1iZfDrSLwt01PGJt0db2C6Q9FTtX&export=download
+</externallink>
+<fanart></fanart>
+<info>

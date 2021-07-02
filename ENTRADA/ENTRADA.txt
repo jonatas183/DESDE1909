@@ -1,0 +1,15 @@
+<channels>
+<channel>
+<name>[COLOR red][B]:::[/B][/COLOR][COLOR white][B]:::[/B][/COLOR][COLOR red][B]:::[/B][/COLOR] [COLOR white][B]ATENÇÃO[/B][/COLOR] [COLOR red][B]:::[/B][/COLOR][COLOR white][B]:::[/B][/COLOR][COLOR red][B]:::[/B][/COLOR]</name>
+<thumbnail>https://brunorabello.com.br/wp-content/uploads/2016/07/atencao.png</thumbnail>
+<externallink>https://</externallink>
+<info>[COLOR yellow][B]●[/B][/COLOR] [COLOR white][B]Na madrugada de sábado para domingo todos os servidores estarão em manutenção.[/B][/COLOR]
+
+[COLOR yellow][B]●[/B][/COLOR] [COLOR white][B]Motivo:[/B][/COLOR]
+Mudança de formato dos canais.
+
+http://painel.smartlista.org:8880/get.php?username=94p5kz8ea6v&password=txaqj98wdhy&type=m3u_plus&output=rtmp
+
+http://vvraw.com:2082/get.php?username=Altair567&password=356738473&type=m3u_plus&output=ts
+
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/90625.ts

@@ -1,0 +1,157 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="A&E *HD" tvg-name="BR | A&E *HD" tvg-logo="7ccd90e70bdc68ed0f3c8046e75b6e03", BR | A&E *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5450
+#EXTINF:-1 tvg-id="BR | ANIMAL PLANET *HD" tvg-name="BR | ANIMAL PLANET *HD" tvg-logo="http://www.cromosmexico.com/blog/wp-content/uploads/2018/10/Captura-de-pantalla-2018-10-19-a-las-11.44.27.png", BR | ANIMAL PLANET *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5451
+#EXTINF:-1 tvg-id="BR | AXN *HD" tvg-name="BR | AXN *HD" tvg-logo="bdf3962c-10e6-4241-8d6a-00420cf74b79.png", BR | AXN *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5453
+#EXTINF:-1 tvg-id="BR | BAND *HD" tvg-name="BR | BAND *HD", BR | BAND *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5454
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | BAND NEWS *HD", BR | BAND NEWS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5455
+#EXTINF:-1 tvg-id="BR | BAND SPORTS *HD" tvg-name="BR | BAND SPORTS *HD", BR | BAND SPORTS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5456
+#EXTINF:-1 tvg-id="BR | BIS *HD" tvg-name="BR | BIS *HD", BR | BIS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5457
+#EXTINF:-1 tvg-id="BR | BOOMERANG *HD" tvg-name="BR | BOOMERANG *HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png", BR | BOOMERANG *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5458
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | CANAL BRASIL *HD", BR | CANAL BRASIL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5459
+#EXTINF:-1 tvg-id="BR | CARTOON NETWORK *HD" tvg-name="BR | CARTOON NETWORK *HD" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg", BR | CARTOON NETWORK *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5461
+#EXTINF:-1 tvg-id="BR | CINEMAX *HD" tvg-name="BR | CINEMAX *HD" tvg-logo="91219067-0362-45cc-bf36-ed3a65f47746.png", BR | CINEMAX *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5463
+#EXTINF:-1 tvg-id="BR | COMBATE *HD" tvg-name="BR | COMBATE *HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png", BR | COMBATE *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5465
+#EXTINF:-1 tvg-id="BR | COMEDY CENTRAL *HD" tvg-name="BR | COMEDY CENTRAL *HD" tvg-logo="06b6ead1c829f6e109c7fbcb8bb58a46", BR | COMEDY CENTRAL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5466
+#EXTINF:-1 tvg-id="BR | DISCOVERY CH. *HD" tvg-name="BR | DISCOVERY CH. *HD", BR | DISCOVERY CH. *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5468
+#EXTINF:-1 tvg-id="BR | DISCOVERY CH. *HD" tvg-name="BR | DISCOVERY CIVILIZATION *HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png", BR | DISCOVERY CIVILIZATION *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5469
+#EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="BR | DISCOVERY H&H *HD" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg", BR | DISCOVERY H&H *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5470
+#EXTINF:-1 tvg-id="BR | DISCOVERY ID *HD" tvg-name="BR | DISCOVERY ID *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png?mlgvnOAdNFDNh2Tpmx_TyDDuwJ8gZ12q&itok=LtXFZiqH", BR | DISCOVERY ID *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5471
+#EXTINF:-1 tvg-id="BR | DISCOVERY KIDS *HD" tvg-name="BR | DISCOVERY KIDS *HD" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg", BR | DISCOVERY KIDS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5472
+#EXTINF:-1 tvg-id="BR | DISCOVERY SCIENCE *HD" tvg-name="BR | DISCOVERY SCIENCE *HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png", BR | DISCOVERY SCIENCE *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5473
+#EXTINF:-1 tvg-id="BR | DISCOVERY THEATER *HD" tvg-name="BR | DISCOVERY THEATHER *HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png", BR | DISCOVERY THEATHER *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5474
+#EXTINF:-1 tvg-id="BR | DISCOVERY TURBO *HD" tvg-name="BR | DISCOVERY TURBO *HD" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-turbo.jpg", BR | DISCOVERY TURBO *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5475
+#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="BR | DISCOVERY WORLD *HD" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png", BR | DISCOVERY WORLD *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5476
+#EXTINF:-1 tvg-id="BR | DISNEY CHANNEL *HD" tvg-name="BR | DISNEY CHANNEL *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM", BR | DISNEY CHANNEL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5477
+#EXTINF:-1 tvg-id="BR | DISNEY JUNIOR *HD" tvg-name="BR | DISNEY JUNIOR *HD", BR | DISNEY JUNIOR *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5478
+#EXTINF:-1 tvg-id="BR | DISNEY XD *HD" tvg-name="BR | DISNEY XD *HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgET6P_a7vdo8smEqK7J3R8jq-t56mnrrf71QDgzn8Ytig0bb&s", BR | DISNEY XD *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5479
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | ESPN *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp", BR | ESPN *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5484
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | ESPN BRASIL *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp", BR | ESPN BRASIL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5482
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | ESPN EXTRA *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp", BR | ESPN EXTRA *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5483
+#EXTINF:-1 tvg-id="BR | FISH TV *HD" tvg-name="BR | FISH TV *HD", BR | FISH TV *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5486
+#EXTINF:-1 tvg-id="BR | FOX SPORTS 2 *HD" tvg-name="BR | FOX SPORTS 2 *HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg", BR | FOX SPORTS 2 *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5491
+#EXTINF:-1 tvg-id="BR | FX *HD" tvg-name="BR | FX *HD", BR | FX *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5494
+#EXTINF:-1 tvg-id="BR | GLOBO NEWS *HD" tvg-name="BR | GLOBO NEWS *HD", BR | GLOBO NEWS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5495
+#EXTINF:-1 tvg-id="BR | GLOBO SP *HD" tvg-name="BR | GLOBO SP *HD", BR | GLOBO SP *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5497
+#EXTINF:-1 tvg-id="BR | GLOOB *HD" tvg-name="BR | GLOOB *HD", BR | GLOOB *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5498
+#EXTINF:-1 tvg-id="BR | HBO *HD" tvg-name="BR | HBO *HD" tvg-logo="http://89.187.177.132/icon/hbo.png", BR | HBO *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5502
+#EXTINF:-1 tvg-id="BR | HBO 2 *HD" tvg-name="BR | HBO 2 *HD" tvg-logo="http://89.187.177.132/icon/hbo2.png", BR | HBO 2 *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5500
+#EXTINF:-1 tvg-id="BR | HBO FAMILY *HD" tvg-name="BR | HBO FAMILY *HD" tvg-logo="http://89.187.177.132/icon/hbofamily.png", BR | HBO FAMILY *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5501
+#EXTINF:-1 tvg-id="BR | HBO PLUS *HD" tvg-name="BR | HBO PLUS *HD", BR | HBO PLUS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5503
+#EXTINF:-1 tvg-id="BR | HBO SIGNATURE *HD" tvg-name="BR | HBO SIGNATURE *HD" tvg-logo="94531391-13b7-4294-8429-9a49ca7a5f6a.png", BR | HBO SIGNATURE *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5504
+#EXTINF:-1 tvg-id="BR | HISTORY *HD" tvg-name="BR | HISTORY *HD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg", BR | HISTORY *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5506
+#EXTINF:-1 tvg-id="BR | HISTORY 2 *HD" tvg-name="BR | HISTORY 2 *HD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg", BR | HISTORY 2 *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5505
+#EXTINF:-1 tvg-id="BR | LIFETIME *HD" tvg-name="BR | LIFETIME *HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png", BR | LIFETIME *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5508
+#EXTINF:-1 tvg-id="BR | MAIS GLOBOSAT *HD" tvg-name="BR | MAIS GLOBOSAT *HD", BR | MAIS GLOBOSAT *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5509
+#EXTINF:-1 tvg-id="BR | MAX PRIME *HD" tvg-name="BR | MAX PRIME *HD", BR | MAX PRIME *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5511
+#EXTINF:-1 tvg-id="BR | MAX UP *HD" tvg-name="BR | MAX UP *HD", BR | MAX UP *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5512
+#EXTINF:-1 tvg-id="BR | MEGAPIX *HD" tvg-name="BR | MEGAPIX *HD", BR | MEGAPIX *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5513
+#EXTINF:-1 tvg-id="BR | NAT GEO KIDS *HD" tvg-name="BR | NAT GEO KIDS *HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_mA6hPN9APcurFHq5-U4IAkP3UlmJ8jLV59Q=s900-c-k-c0xffffffff-no-rj-mo", BR | NAT GEO KIDS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5516
+#EXTINF:-1 tvg-id="BR | NAT GEO WILD *HD" tvg-name="BR | NAT GEO WILD *HD" tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg", BR | NAT GEO WILD *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5517
+#EXTINF:-1 tvg-id="BR | NATIONAL GEOGRAPHIC *HD" tvg-name="BR | NATIONAL GEOGRAPHIC *HD", BR | NATIONAL GEOGRAPHIC *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5518
+#EXTINF:-1 tvg-id="BR | NICK JR *HD" tvg-name="BR | NICK JR *HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png", BR | NICK JR *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5520
+#EXTINF:-1 tvg-id="BR | NICKELODEON *HD" tvg-name="BR | NICKELODEON *HD" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg", BR | NICKELODEON *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5521
+#EXTINF:-1 tvg-id="BR | PARAMOUNT *HD" tvg-name="BR | PARAMOUNT *HD" tvg-logo="f30511e4-0495-4bf3-aaf4-d1188c9b615b.png", BR | PARAMOUNT *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5523
+#EXTINF:-1 tvg-id="BR | RECORD *HD" tvg-name="BR | RECORD *HD", BR | RECORD *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5537
+#EXTINF:-1 tvg-id="BR | RECORD NEWS *HD" tvg-name="BR | RECORD NEWS *HD", BR | RECORD NEWS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5538
+#EXTINF:-1 tvg-id="BR | REDE TV *HD" tvg-name="BR | REDE TV *HD", BR | REDE TV *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5541
+#EXTINF:-1 tvg-id="BR | SYFY *HD" tvg-name="BR | SONY *HD" tvg-logo="05fb9dc8-c083-414f-a525-4167beaf9de5.png", BR | SONY *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5545
+#EXTINF:-1 tvg-id="BR | SPACE *HD" tvg-name="BR | SPACE *HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/SPA.png", BR | SPACE *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5546
+#EXTINF:-1 tvg-id="BR | FOX *HD" tvg-name="BR | STAR CHANNEL *HD", BR | STAR CHANNEL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5487
+#EXTINF:-1 tvg-id="BR | FOX LIFE *HD" tvg-name="BR | STAR LIFE *HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Life.png", BR | STAR LIFE *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5488
+#EXTINF:-1 tvg-id="BR | STUDIO UNIVERSAL *HD" tvg-name="BR | STUDIO UNIVERSAL *HD" tvg-logo="32b7df0b713be38216c72ad54f5c4ec3", BR | STUDIO UNIVERSAL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5550
+#EXTINF:-1 tvg-id="BR | SYFY *HD" tvg-name="BR | SYFY *HD" tvg-logo="http://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png", BR | SYFY *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5551
+#EXTINF:-1 tvg-id="TBS *FHD" tvg-name="BR | TBS *HD" tvg-logo="9b973ff6d8264e0fefe9229dfb303b05", BR | TBS *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5552
+#EXTINF:-1 tvg-id="TCM *FHD" tvg-name="BR | TCM *HD" tvg-logo="41f15e74-37c8-44b2-96b5-7c5fd26496bc.png", BR | TCM *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5553
+#EXTINF:-1 tvg-id="BR | TELECINE ACTION *HD" tvg-name="BR | TELECINE ACTION *HD", BR | TELECINE ACTION *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5554
+#EXTINF:-1 tvg-id="BR | TELECINE CULT *HD" tvg-name="BR | TELECINE CULT *HD", BR | TELECINE CULT *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5555
+#EXTINF:-1 tvg-id="BR | TELECINE FUN *HD" tvg-name="BR | TELECINE FUN *HD", BR | TELECINE FUN *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5556
+#EXTINF:-1 tvg-id="BR | TELECINE PIPOCA *HD" tvg-name="BR | TELECINE PIPOCA *HD", BR | TELECINE PIPOCA *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5557
+#EXTINF:-1 tvg-id="BR | TELECINE PREMIUM *HD" tvg-name="BR | TELECINE PREMIUM *HD", BR | TELECINE PREMIUM *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5558
+#EXTINF:-1 tvg-id="BR | TLC *HD" tvg-name="BR | TLC *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/tlc_logo.png?itok=8Ljw2n5Z", BR | TLC *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5560
+#EXTINF:-1 tvg-id="BR | TNT *HD" tvg-name="BR | TNT *HD" tvg-logo="5e14f833acc544e4fd36643b0680fa56", BR | TNT *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5561
+#EXTINF:-1 tvg-id="BR | TNT SERIES *HD" tvg-name="BR | TNT SERIES *HD" tvg-logo="766dbe4658ec4ef8d91d9180984da7e7", BR | TNT SERIES *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5562
+#EXTINF:-1 tvg-id="BR | TOONCAST *HD" tvg-name="BR | TOONCAST *HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png", BR | TOONCAST *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5563
+#EXTINF:-1 tvg-id="BR | TV GAZETA *HD" tvg-name="BR | TV GAZETA *HD", BR | TV GAZETA *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5571
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | TV RÁ TIM BUM *HD", BR | TV RÁ TIM BUM *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5572
+#EXTINF:-1 tvg-id="SP | BEIN SPORTS 1" tvg-name="BR | UNIVERSAL CHANNEL *HD" tvg-logo="26b9a8063be67e2349166b84c8bfc944", BR | UNIVERSAL CHANNEL *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5575
+#EXTINF:-1 tvg-id="BR | VIVA *HD" tvg-name="BR | VIVA *HD", BR | VIVA *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5577
+#EXTINF:-1 tvg-id="BR | WARNER *HD" tvg-name="BR | WARNER *HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/297-blanco.png", BR | WARNER *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5578
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="BR | WOOHOO *HD", BR | WOOHOO *HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://xdgo.live:8080/rafaelcontreras37/TCVugEHNUU/5579

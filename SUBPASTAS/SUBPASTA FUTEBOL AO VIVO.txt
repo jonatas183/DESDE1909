@@ -1,0 +1,34 @@
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] BRASILEIRÃO SÉRIE - A[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/dggSDsm/op-o-1.png</thumbnail>
+<externallink>https:drive.google.com/u/0/uc?id=1OVBgGFmOBLQ8QLVToL30RTjLPdYaESTQ&export=download</externallink>
+<info>[COLOR yellow][B]update[/B][/COLOR]: 23/02/2021 - 01:12</info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]CAMPEONATO GAÚCHO[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=1XdojjDC_WylRCC0QVaZeLC_w3bMB6TZe&export=download</externallink>
+<info>[COLOR yellow][B]update[/B][/COLOR]: 08/03/2021 - 11:40 </info>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] CHAMPIONS LEAGUE[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/kHHC3H1/champions.png</thumbnail>
+<externallink>https:drive.google.com/u/0/uc?id=1czkYAlchYz0YWEGB3pJA2AHfIGXE_pnU&export=download</externallink>
+<info>[COLOR yellow][B]update[/B][/COLOR]: 23/02/2021 - 20:00</info>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] COPA DO BRASIL[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/vPgGvqf/copa-do-brasil.png</thumbnail>
+<externallink>https:drive.google.com/u/0/uc?id=1KDhIv334SWuL9QSVWmyvaL90zpmV8eBZ&export=download</externallink>
+<fanart></fanart>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] COPA LIBERTADORES DA AMÉRICA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Yb0M2jh/libertadores.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
